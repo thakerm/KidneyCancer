@@ -1,0 +1,28 @@
+#date{
+    border: 1px solid lightgray;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    text-align: center;
+}
+#header{
+    text-align: center;
+}
+#cell2{
+    border-color: none;
+    border-right: none;
+    border-style:  none;
+}
+
+a{
+    
+    font-size: small;
+    text-decoration: none;
+    font-size: small;
+   
+}
+i{
+    float: left;
+}
+
+
+
